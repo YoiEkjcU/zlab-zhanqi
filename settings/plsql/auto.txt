@@ -1,0 +1,5 @@
+s=select * from
+st=select t.*, t.rowid from
+sp=select t.*, t.rowid from prv_sysparam t where t.gcode like '';
+sc=select count(*) from
+i=insert into

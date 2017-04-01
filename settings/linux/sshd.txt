@@ -1,0 +1,19 @@
+/etc/ssh/sshd_confg
+GatewayPorts yes
+
+RewriteEngine on
+RewriteRule ^.*$ https://%{SERVER_NAME}%{REQUEST_URI} [L,R]
+
+
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^diymalls.com [NC]
+RewriteRule ^(.*)$ https://www.diymalls.com$1 [L,R=301]
+
+ProxyPreserveHost on
+ProxyPass /blog !
+ProxyPass /blog/ !
+
+ProxyPass /pma !
+ProxyPass /pma/ !
+

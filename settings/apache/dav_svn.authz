@@ -1,0 +1,9 @@
+[svn:/]
+zhanqi=rw
+
+[svn:/webapp]
+#*=r
+
+[svn:/project/beiyi]
+wukai=rw
+yaomi=rw
