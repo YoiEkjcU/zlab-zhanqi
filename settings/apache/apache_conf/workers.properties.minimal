@@ -1,0 +1,11 @@
+worker.list=lb,jk-status
+
+worker.node1.type=ajp13
+worker.node1.host=localhost
+worker.node1.port=8009
+
+worker.lb.type=lb
+worker.lb.balance_workers=node1
+
+worker.jk-status.type=status
+
