@@ -1,0 +1,158 @@
+{
+  "configs": [
+    {
+      "server": "JP3.ISS.TF",
+      "server_port": 443,
+      "password": "18179823",
+      "method": "aes-256-cfb",
+      "remarks": "日本",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "US1.ISS.TF",
+      "server_port": 443,
+      "password": "42383978",
+      "method": "aes-256-cfb",
+      "remarks": "美国",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "HK2.ISS.TF",
+      "server_port": 8989,
+      "password": "95792227",
+      "method": "aes-256-cfb",
+      "remarks": "香港",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "sg.a.cloudss.club",
+      "server_port": 20065,
+      "password": "cloudss",
+      "method": "rc4-md5",
+      "remarks": "云影",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "jp01-34.ssv7.net",
+      "server_port": 43542,
+      "password": "VdpbWEk7dmK6",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "jp06-34.ssv7.net",
+      "server_port": 43542,
+      "password": "VdpbWEk7dmK6",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "sg02-34.ssv7.net",
+      "server_port": 43542,
+      "password": "VdpbWEk7dmK6",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "sg03-34.ssv7.net",
+      "server_port": 43542,
+      "password": "VdpbWEk7dmK6",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "sg05-34.ssv7.net",
+      "server_port": 43542,
+      "password": "VdpbWEk7dmK6",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "us01-34.ssv7.net",
+      "server_port": 43542,
+      "password": "VdpbWEk7dmK6",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "us02-34.ssv7.net",
+      "server_port": 43542,
+      "password": "VdpbWEk7dmK6",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "us03-34.ssv7.net",
+      "server_port": 43542,
+      "password": "VdpbWEk7dmK6",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    },
+    {
+      "server": "hk02-34.ssv7.net",
+      "server_port": 43542,
+      "password": "VdpbWEk7dmK6",
+      "method": "aes-256-cfb",
+      "remarks": "",
+      "auth": false,
+      "timeout": 5
+    }
+  ],
+  "strategy": null,
+  "index": 5,
+  "global": false,
+  "enabled": true,
+  "shareOverLan": false,
+  "isDefault": false,
+  "localPort": 1080,
+  "pacUrl": "http://zhanqi.net/abc.pac",
+  "useOnlinePac": false,
+  "secureLocalPac": true,
+  "availabilityStatistics": true,
+  "autoCheckUpdate": true,
+  "checkPreRelease": false,
+  "isVerboseLogging": false,
+  "logViewer": {
+    "topMost": false,
+    "wrapText": false,
+    "toolbarShown": false,
+    "Font": "Consolas, 8pt",
+    "BackgroundColor": "Black",
+    "TextColor": "White"
+  },
+  "proxy": {
+    "useProxy": false,
+    "proxyType": 0,
+    "proxyServer": "",
+    "proxyPort": 0,
+    "proxyTimeout": 3
+  },
+  "hotkey": {
+    "SwitchSystemProxy": "",
+    "SwitchSystemProxyMode": "",
+    "SwitchAllowLan": "",
+    "ShowLogs": "",
+    "ServerMoveUp": "",
+    "ServerMoveDown": ""
+  }
+}

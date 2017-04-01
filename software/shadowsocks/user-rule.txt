@@ -1,0 +1,31 @@
+! Put user rules line by line in this file.
+! See https://adblockplus.org/en/filter-cheatsheet
+
+||maven.org
+||spring.io
+||github.com
+||github.io
+||githubusercontent.com
+||ip138.com
+||mongodb.com
+||swagger.io
+||apache.org
+||vuejs.org
+||gitbooks.io
+||amazonaws.com
+||sencha.com
+||npmjs.com
+||getbootstrap.com
+||pentaho.org
+||meteorite.bi
+||seantheme.com
+||gitter.im
+||docker.com
+||bintray.com
+||hubspot.com
+||eager.io
+||markgoodyear.com
+||eleme.io
+||navicat.com
+||owlgraphic.com
+||jsfiddle.net
