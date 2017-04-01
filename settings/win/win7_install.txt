@@ -1,0 +1,9 @@
+8、出错原因是现在WinPE2.0下无法直接通过双击安装程序来安装，但WinPE 3.0则可以。这时我们要安装需要换一种思路，采用前面介绍的传统硬盘安装方法。首先把Win7目录下的boot目录、bootmgr文件拷贝到C盘根目录（假定是装到C盘），然后再把Win7sources目录的boot.wim拷贝到C盘的sources文件夹下（需事先新建一个），为将要进行Windows 7启动做准备文件，拷贝完成如下图：
+
+
+sources  boot.wim
+
+
+在CMD窗口，输入c:bootbootsect.exe /nt60 c:并回车，如下图，会提示更新成功信息：
+
+在命令提示符窗口中输入D:Win7sourcessetup.exe并回车，
