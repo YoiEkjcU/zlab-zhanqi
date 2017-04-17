@@ -6,7 +6,6 @@
       "password": "18179823",
       "method": "aes-256-cfb",
       "remarks": "日本",
-      "auth": false,
       "timeout": 5
     },
     {
@@ -15,7 +14,6 @@
       "password": "42383978",
       "method": "aes-256-cfb",
       "remarks": "美国",
-      "auth": false,
       "timeout": 5
     },
     {
@@ -24,7 +22,6 @@
       "password": "95792227",
       "method": "aes-256-cfb",
       "remarks": "香港",
-      "auth": false,
       "timeout": 5
     },
     {
@@ -33,7 +30,6 @@
       "password": "cloudss",
       "method": "rc4-md5",
       "remarks": "云影",
-      "auth": false,
       "timeout": 5
     },
     {
@@ -42,7 +38,6 @@
       "password": "VdpbWEk7dmK6",
       "method": "aes-256-cfb",
       "remarks": "",
-      "auth": false,
       "timeout": 5
     },
     {
@@ -51,7 +46,6 @@
       "password": "VdpbWEk7dmK6",
       "method": "aes-256-cfb",
       "remarks": "",
-      "auth": false,
       "timeout": 5
     },
     {
@@ -60,7 +54,6 @@
       "password": "VdpbWEk7dmK6",
       "method": "aes-256-cfb",
       "remarks": "",
-      "auth": false,
       "timeout": 5
     },
     {
@@ -69,7 +62,6 @@
       "password": "VdpbWEk7dmK6",
       "method": "aes-256-cfb",
       "remarks": "",
-      "auth": false,
       "timeout": 5
     },
     {
@@ -78,7 +70,6 @@
       "password": "VdpbWEk7dmK6",
       "method": "aes-256-cfb",
       "remarks": "",
-      "auth": false,
       "timeout": 5
     },
     {
@@ -87,7 +78,6 @@
       "password": "VdpbWEk7dmK6",
       "method": "aes-256-cfb",
       "remarks": "",
-      "auth": false,
       "timeout": 5
     },
     {
@@ -96,7 +86,6 @@
       "password": "VdpbWEk7dmK6",
       "method": "aes-256-cfb",
       "remarks": "",
-      "auth": false,
       "timeout": 5
     },
     {
@@ -105,7 +94,6 @@
       "password": "VdpbWEk7dmK6",
       "method": "aes-256-cfb",
       "remarks": "",
-      "auth": false,
       "timeout": 5
     },
     {
@@ -114,7 +102,6 @@
       "password": "VdpbWEk7dmK6",
       "method": "aes-256-cfb",
       "remarks": "",
-      "auth": false,
       "timeout": 5
     }
   ],
