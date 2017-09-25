@@ -1,30 +1,6 @@
 {
   "configs": [
     {
-      "server": "JP3.ISS.TF",
-      "server_port": 443,
-      "password": "18179823",
-      "method": "aes-256-cfb",
-      "remarks": "日本",
-      "timeout": 5
-    },
-    {
-      "server": "US1.ISS.TF",
-      "server_port": 443,
-      "password": "42383978",
-      "method": "aes-256-cfb",
-      "remarks": "美国",
-      "timeout": 5
-    },
-    {
-      "server": "HK2.ISS.TF",
-      "server_port": 8989,
-      "password": "95792227",
-      "method": "aes-256-cfb",
-      "remarks": "香港",
-      "timeout": 5
-    },
-    {
       "server": "sg.a.cloudss.club",
       "server_port": 20065,
       "password": "cloudss",
@@ -33,80 +9,16 @@
       "timeout": 5
     },
     {
-      "server": "jp01-34.ssv7.net",
-      "server_port": 43542,
-      "password": "VdpbWEk7dmK6",
+      "server": "47.89.41.194",
+      "server_port": 53,
+      "password": "ec41faf0b96c26",
       "method": "aes-256-cfb",
-      "remarks": "",
-      "timeout": 5
-    },
-    {
-      "server": "jp06-34.ssv7.net",
-      "server_port": 43542,
-      "password": "VdpbWEk7dmK6",
-      "method": "aes-256-cfb",
-      "remarks": "",
-      "timeout": 5
-    },
-    {
-      "server": "sg02-34.ssv7.net",
-      "server_port": 43542,
-      "password": "VdpbWEk7dmK6",
-      "method": "aes-256-cfb",
-      "remarks": "",
-      "timeout": 5
-    },
-    {
-      "server": "sg03-34.ssv7.net",
-      "server_port": 43542,
-      "password": "VdpbWEk7dmK6",
-      "method": "aes-256-cfb",
-      "remarks": "",
-      "timeout": 5
-    },
-    {
-      "server": "sg05-34.ssv7.net",
-      "server_port": 43542,
-      "password": "VdpbWEk7dmK6",
-      "method": "aes-256-cfb",
-      "remarks": "",
-      "timeout": 5
-    },
-    {
-      "server": "us01-34.ssv7.net",
-      "server_port": 43542,
-      "password": "VdpbWEk7dmK6",
-      "method": "aes-256-cfb",
-      "remarks": "",
-      "timeout": 5
-    },
-    {
-      "server": "us02-34.ssv7.net",
-      "server_port": 43542,
-      "password": "VdpbWEk7dmK6",
-      "method": "aes-256-cfb",
-      "remarks": "",
-      "timeout": 5
-    },
-    {
-      "server": "us03-34.ssv7.net",
-      "server_port": 43542,
-      "password": "VdpbWEk7dmK6",
-      "method": "aes-256-cfb",
-      "remarks": "",
-      "timeout": 5
-    },
-    {
-      "server": "hk02-34.ssv7.net",
-      "server_port": 43542,
-      "password": "VdpbWEk7dmK6",
-      "method": "aes-256-cfb",
-      "remarks": "",
-      "timeout": 5
+      "remarks": "鸿运",
+      "timeout": 10
     }
   ],
   "strategy": null,
-  "index": 7,
+  "index": 1,
   "global": false,
   "enabled": true,
   "shareOverLan": false,
