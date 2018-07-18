@@ -5,6 +5,8 @@
       "server_port": 20065,
       "password": "cloudss",
       "method": "rc4-md5",
+      "plugin": "",
+      "plugin_opts": "",
       "remarks": "云影",
       "timeout": 5
     },
@@ -13,6 +15,8 @@
       "server_port": 53,
       "password": "ec41faf0b96c26",
       "method": "aes-256-cfb",
+      "plugin": "",
+      "plugin_opts": "",
       "remarks": "鸿运",
       "timeout": 10
     }
